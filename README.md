@@ -66,7 +66,7 @@
 
 - [x] [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
 
-- [ ] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
+- [x] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
 - [x] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
