@@ -1,0 +1,44 @@
+name: Update TryHackMe README
+
+on:
+  schedule:
+    - cron: "0 6 * * *"  # todos os dias às 06:00 UTC
+  workflow_dispatch:      # permite executar manualmente
+
+jobs:
+  update-thm-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate README from TryHackMe
+        env:
+          THM_USERNAME: hypes999
+          # Se quiseres suportar perfis privados:
+          # THM_SESSION: ${{ secrets.THM_SESSION }}
+        run: |
+          python generate_thm_readme.py "$THM_USERNAME"
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "actions@github.com"
+          if git diff --quiet README.md; then
+            echo "Nenhuma mudança — README já está atualizado."
+            exit 0
+          fi
+          git add README.md
+          git commit -m "update: README automático (TryHackMe rooms)"
+          git push
