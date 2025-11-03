@@ -1,11 +1,12 @@
 # TryHackMe — Rooms completadas por `hypes999`
 
-_Última atualização: 2025-11-02 06:34 UTC_
+_Última atualização: 2025-11-03 06:38 UTC_
 
 ## Rooms
 
 - [Active Directory Basics](https://tryhackme.com/room/winadbasics)
 - [Active Reconnaissance](https://tryhackme.com/room/activerecon)
+- [Advanced SQL Injection](https://tryhackme.com/room/advancedsqlinjection)
 - [Advent of Cyber '23 Side Quest](https://tryhackme.com/room/adventofcyber23sidequest)
 - [AI/ML Security Threats](https://tryhackme.com/room/aimlsecuritythreats)
 - [Baron Samedit](https://tryhackme.com/room/sudovulnssamedit)
@@ -37,8 +38,10 @@ _Última atualização: 2025-11-02 06:34 UTC_
 - [HTTP in Detail](https://tryhackme.com/room/httpindetail)
 - [Hydra](https://tryhackme.com/room/hydra)
 - [Hypervisor Internals](https://tryhackme.com/room/hypervisorinternals)
+- [Intro to Containerisation](https://tryhackme.com/room/introtocontainerisation)
 - [Intro to Cyber Threat Intel](https://tryhackme.com/room/cyberthreatintel)
 - [Intro to Digital Forensics](https://tryhackme.com/room/introdigitalforensics)
+- [Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 - [Intro to Endpoint Security](https://tryhackme.com/room/introtoendpointsecurity)
 - [Intro to IoT Pentesting](https://tryhackme.com/room/iotintro)
 - [Intro to Log Analysis](https://tryhackme.com/room/introtologanalysis)
@@ -46,13 +49,16 @@ _Última atualização: 2025-11-02 06:34 UTC_
 - [Introduction to Django](https://tryhackme.com/room/django)
 - [Introduction to EDR](https://tryhackme.com/room/introductiontoedrs)
 - [Introduction to Flask](https://tryhackme.com/room/flask)
+- [Introduction To Honeypots](https://tryhackme.com/room/introductiontohoneypots)
 - [Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)
 - [Introduction to SIEM](https://tryhackme.com/room/introtosiem)
 - [Introductory Networking](https://tryhackme.com/room/introtonetworking)
 - [Introductory Researching](https://tryhackme.com/room/introtoresearch)
 - [Investigating Windows](https://tryhackme.com/room/investigatingwindows)
+- [IR Philosophy and Ethics](https://tryhackme.com/room/irphilosophyethics)
 - [Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)
 - [Jupyter 101](https://tryhackme.com/room/jupyter101)
+- [KAPE](https://tryhackme.com/room/kape)
 - [KQL (Kusto): Basic Queries](https://tryhackme.com/room/kqlkustobasicqueries)
 - [Learn and win prizes](https://tryhackme.com/room/tickets1)
 - [Learn Rust](https://tryhackme.com/room/rust)
@@ -130,6 +136,7 @@ _Última atualização: 2025-11-02 06:34 UTC_
 - [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
 - [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
 - [Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+- [Windows x64 Assembly](https://tryhackme.com/room/win64assembly)
 
 ---
 Gerado automaticamente por `generate_thm_readme.py`.
