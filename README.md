@@ -1,6 +1,6 @@
 # TryHackMe — Rooms completadas por `hypes999`
 
-_Última atualização: 2025-11-06 06:37 UTC_
+_Última atualização: 2025-11-07 06:36 UTC_
 
 ## Rooms
 
@@ -20,6 +20,7 @@ _Última atualização: 2025-11-06 06:37 UTC_
 - [Crack the hash](https://tryhackme.com/room/crackthehash)
 - [Cryptography Basics](https://tryhackme.com/room/cryptographybasics)
 - [Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
+- [Custom Tooling Using Python](https://tryhackme.com/room/customtoolingpython)
 - [Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt)
 - [CyberChef: The Basics](https://tryhackme.com/room/cyberchefbasics)
 - [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
@@ -46,6 +47,7 @@ _Última atualização: 2025-11-06 06:37 UTC_
 - [Intro to IoT Pentesting](https://tryhackme.com/room/iotintro)
 - [Intro to Log Analysis](https://tryhackme.com/room/introtologanalysis)
 - [Intro to Logs](https://tryhackme.com/room/introtologs)
+- [Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
 - [Introduction to Django](https://tryhackme.com/room/django)
 - [Introduction to EDR](https://tryhackme.com/room/introductiontoedrs)
 - [Introduction to Flask](https://tryhackme.com/room/flask)
