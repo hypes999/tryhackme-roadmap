@@ -1,6 +1,6 @@
 # TryHackMe — Rooms completadas por `hypes999`
 
-_Última atualização: 2025-11-09 06:33 UTC_
+_Última atualização: 2025-11-10 06:39 UTC_
 
 ## Rooms
 
@@ -47,6 +47,7 @@ _Última atualização: 2025-11-09 06:33 UTC_
 - [Intro to IoT Pentesting](https://tryhackme.com/room/iotintro)
 - [Intro to Log Analysis](https://tryhackme.com/room/introtologanalysis)
 - [Intro to Logs](https://tryhackme.com/room/introtologs)
+- [Intro to Pipeline Automation](https://tryhackme.com/room/introtopipelineautomation)
 - [Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
 - [Introduction to Django](https://tryhackme.com/room/django)
 - [Introduction to EDR](https://tryhackme.com/room/introductiontoedrs)
@@ -93,6 +94,7 @@ _Última atualização: 2025-11-09 06:33 UTC_
 - [Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 - [Polkit: CVE-2021-3560](https://tryhackme.com/room/polkit)
 - [Post-Exploitation Basics](https://tryhackme.com/room/postexploit)
+- [Preparation](https://tryhackme.com/room/preparation)
 - [Putting it all together](https://tryhackme.com/room/puttingitalltogether)
 - [Pwnkit: CVE-2021-4034](https://tryhackme.com/room/pwnkit)
 - [Pyramid Of Pain](https://tryhackme.com/room/pyramidofpainax)
