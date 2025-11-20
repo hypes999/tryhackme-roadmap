@@ -1,6 +1,6 @@
 # TryHackMe — Rooms completadas por `hypes999`
 
-_Última atualização: 2025-11-19 06:37 UTC_
+_Última atualização: 2025-11-20 06:36 UTC_
 
 ## Rooms
 
@@ -84,6 +84,7 @@ _Última atualização: 2025-11-19 06:37 UTC_
 - [OpenVAS](https://tryhackme.com/room/openvas)
 - [OpenVPN](https://tryhackme.com/room/openvpn)
 - [OverlayFS - CVE-2021-3493](https://tryhackme.com/room/overlayfs)
+- [OWASP Mutillidae II](https://tryhackme.com/room/owaspmutillidae)
 - [OWASP Top 10](https://tryhackme.com/room/owasptop10)
 - [OWASP Top 10 - 2021](https://tryhackme.com/room/owasptop102021)
 - [PaperCut: CVE-2023-27350](https://tryhackme.com/room/papercut)
