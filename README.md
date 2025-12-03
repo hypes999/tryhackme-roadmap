@@ -1,6 +1,6 @@
 # TryHackMe — Rooms completadas por `hypes999`
 
-_Última atualização: 2025-12-02 06:40 UTC_
+_Última atualização: 2025-12-03 06:39 UTC_
 
 ## Rooms
 
@@ -67,6 +67,7 @@ _Última atualização: 2025-12-02 06:40 UTC_
 - [Learn and win prizes](https://tryhackme.com/room/tickets1)
 - [Learn Rust](https://tryhackme.com/room/rust)
 - [Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+- [Linux CLI - Shells Bells](https://tryhackme.com/room/linuxcli-aoc2025-o1fpqkvxti)
 - [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 - [Linux Modules](https://tryhackme.com/room/linuxmodules)
 - [Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
@@ -91,6 +92,7 @@ _Última atualização: 2025-12-02 06:40 UTC_
 - [PaperCut: CVE-2023-27350](https://tryhackme.com/room/papercut)
 - [Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 - [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
+- [Phishing - Merry Clickmas](https://tryhackme.com/room/phishing-aoc2025-h2tkye9fzU)
 - [Phishing Analysis Fundamentals](https://tryhackme.com/room/phishingemails1tryoe)
 - [Phishing Emails in Action](https://tryhackme.com/room/phishingemails2rytmuv)
 - [Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
