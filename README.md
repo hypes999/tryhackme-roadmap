@@ -1,6 +1,6 @@
 # TryHackMe — Rooms completadas por `hypes999`
 
-_Última atualização: 2025-12-03 06:39 UTC_
+_Última atualização: 2025-12-04 06:39 UTC_
 
 ## Rooms
 
@@ -8,6 +8,7 @@ _Última atualização: 2025-12-03 06:39 UTC_
 - [Active Reconnaissance](https://tryhackme.com/room/activerecon)
 - [Advanced SQL Injection](https://tryhackme.com/room/advancedsqlinjection)
 - [Advent of Cyber '23 Side Quest](https://tryhackme.com/room/adventofcyber23sidequest)
+- [Advent of Cyber Prep Track](https://tryhackme.com/room/adventofcyberpreptrack)
 - [AI/ML Security Threats](https://tryhackme.com/room/aimlsecuritythreats)
 - [Baron Samedit](https://tryhackme.com/room/sudovulnssamedit)
 - [Bash Scripting](https://tryhackme.com/room/bashscripting)
@@ -87,8 +88,6 @@ _Última atualização: 2025-12-03 06:39 UTC_
 - [OpenVPN](https://tryhackme.com/room/openvpn)
 - [OverlayFS - CVE-2021-3493](https://tryhackme.com/room/overlayfs)
 - [OWASP Mutillidae II](https://tryhackme.com/room/owaspmutillidae)
-- [OWASP Top 10](https://tryhackme.com/room/owasptop10)
-- [OWASP Top 10 - 2021](https://tryhackme.com/room/owasptop102021)
 - [PaperCut: CVE-2023-27350](https://tryhackme.com/room/papercut)
 - [Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 - [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
