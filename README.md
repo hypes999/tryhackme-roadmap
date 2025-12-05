@@ -1,6 +1,6 @@
 # TryHackMe — Rooms completadas por `hypes999`
 
-_Última atualização: 2025-12-04 06:39 UTC_
+_Última atualização: 2025-12-05 06:39 UTC_
 
 ## Rooms
 
@@ -117,6 +117,7 @@ _Última atualização: 2025-12-04 06:39 UTC_
 - [Shodan.io](https://tryhackme.com/room/shodan)
 - [SOC Fundamentals](https://tryhackme.com/room/socfundamentals)
 - [SOC Role in Blue Team](https://tryhackme.com/room/socroleinblueteam)
+- [Splunk Basics - Did you SIEM?](https://tryhackme.com/room/splunkforloganalysis-aoc2025-x8fj2k4rqp)
 - [Spring4Shell: CVE-2022-22965](https://tryhackme.com/room/spring4shell)
 - [SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
 - [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
