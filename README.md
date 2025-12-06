@@ -1,6 +1,6 @@
 # TryHackMe — Rooms completadas por `hypes999`
 
-_Última atualização: 2025-12-05 06:39 UTC_
+_Última atualização: 2025-12-06 06:35 UTC_
 
 ## Rooms
 
@@ -9,6 +9,7 @@ _Última atualização: 2025-12-05 06:39 UTC_
 - [Advanced SQL Injection](https://tryhackme.com/room/advancedsqlinjection)
 - [Advent of Cyber '23 Side Quest](https://tryhackme.com/room/adventofcyber23sidequest)
 - [Advent of Cyber Prep Track](https://tryhackme.com/room/adventofcyberpreptrack)
+- [AI in Security - old sAInt nick](https://tryhackme.com/room/AIforcyber-aoc2025-y9wWQ1zRgB)
 - [AI/ML Security Threats](https://tryhackme.com/room/aimlsecuritythreats)
 - [Baron Samedit](https://tryhackme.com/room/sudovulnssamedit)
 - [Bash Scripting](https://tryhackme.com/room/bashscripting)
