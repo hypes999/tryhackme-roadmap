@@ -1,6 +1,6 @@
 # TryHackMe — Rooms completadas por `hypes999`
 
-_Última atualização: 2025-12-07 06:35 UTC_
+_Última atualização: 2025-12-08 06:42 UTC_
 
 ## Rooms
 
@@ -42,6 +42,7 @@ _Última atualização: 2025-12-07 06:35 UTC_
 - [HTTP in Detail](https://tryhackme.com/room/httpindetail)
 - [Hydra](https://tryhackme.com/room/hydra)
 - [Hypervisor Internals](https://tryhackme.com/room/hypervisorinternals)
+- [IDOR - Santa’s Little IDOR](https://tryhackme.com/room/idor-aoc2025-zl6MywQid9)
 - [Intro to Containerisation](https://tryhackme.com/room/introtocontainerisation)
 - [Intro to Cyber Threat Intel](https://tryhackme.com/room/cyberthreatintel)
 - [Intro to Digital Forensics](https://tryhackme.com/room/introdigitalforensics)
