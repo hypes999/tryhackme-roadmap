@@ -1,6 +1,6 @@
 # TryHackMe — Rooms completadas por `hypes999`
 
-_Última atualização: 2025-12-08 06:42 UTC_
+_Última atualização: 2025-12-09 06:40 UTC_
 
 ## Rooms
 
@@ -75,10 +75,12 @@ _Última atualização: 2025-12-08 06:42 UTC_
 - [Linux Modules](https://tryhackme.com/room/linuxmodules)
 - [Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
 - [Log Operations](https://tryhackme.com/room/logoperations)
+- [Malware Analysis - Egg-xecutable](https://tryhackme.com/room/malware-sandbox-aoc2025-SD1zn4fZQt)
 - [Malware Classification](https://tryhackme.com/room/malwareclassification)
 - [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
 - [Moniker Link (CVE-2024-21413)](https://tryhackme.com/room/monikerlink)
 - [MS Sentinel: Introduction](https://tryhackme.com/room/sentinelintroduction)
+- [Network Discovery - Scan-ta Clause](https://tryhackme.com/room/networkservices-aoc2025-jnsoqbxgky)
 - [Network Security Essentials](https://tryhackme.com/room/networksecurityessentials)
 - [Network Services](https://tryhackme.com/room/networkservices)
 - [Network Services 2](https://tryhackme.com/room/networkservices2)
