@@ -1,6 +1,6 @@
 # TryHackMe — Rooms completadas por `hypes999`
 
-_Última atualização: 2025-12-09 06:40 UTC_
+_Última atualização: 2025-12-10 06:40 UTC_
 
 ## Rooms
 
@@ -94,6 +94,7 @@ _Última atualização: 2025-12-09 06:40 UTC_
 - [OWASP Mutillidae II](https://tryhackme.com/room/owaspmutillidae)
 - [PaperCut: CVE-2023-27350](https://tryhackme.com/room/papercut)
 - [Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
+- [Passwords - A Cracking Christmas](https://tryhackme.com/room/attacks-on-ecrypted-files-aoc2025-asdfghj123)
 - [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 - [Phishing - Merry Clickmas](https://tryhackme.com/room/phishing-aoc2025-h2tkye9fzU)
 - [Phishing Analysis Fundamentals](https://tryhackme.com/room/phishingemails1tryoe)
@@ -102,6 +103,7 @@ _Última atualização: 2025-12-09 06:40 UTC_
 - [Polkit: CVE-2021-3560](https://tryhackme.com/room/polkit)
 - [Post-Exploitation Basics](https://tryhackme.com/room/postexploit)
 - [Preparation](https://tryhackme.com/room/preparation)
+- [Prompt Injection - Sched-yule conflict](https://tryhackme.com/room/promptinjection-aoc2025-sxUMnCkvLO)
 - [Putting it all together](https://tryhackme.com/room/puttingitalltogether)
 - [Pwnkit: CVE-2021-4034](https://tryhackme.com/room/pwnkit)
 - [Pyramid Of Pain](https://tryhackme.com/room/pyramidofpainax)
