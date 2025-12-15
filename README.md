@@ -1,6 +1,6 @@
 # TryHackMe — Rooms completadas por `hypes999`
 
-_Última atualização: 2025-12-14 06:37 UTC_
+_Última atualização: 2025-12-15 06:43 UTC_
 
 ## Rooms
 
@@ -20,6 +20,7 @@ _Última atualização: 2025-12-14 06:37 UTC_
 - [Cactus](https://tryhackme.com/room/cactus)
 - [Careers in Cyber](https://tryhackme.com/room/careersincyber)
 - [Common Attacks](https://tryhackme.com/room/commonattacks)
+- [Containers - DoorDasher's Demise](https://tryhackme.com/room/container-security-aoc2025-z0x3v6n9m2)
 - [Crack the hash](https://tryhackme.com/room/crackthehash)
 - [Cryptography Basics](https://tryhackme.com/room/cryptographybasics)
 - [Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
@@ -97,6 +98,7 @@ _Última atualização: 2025-12-14 06:37 UTC_
 - [Passwords - A Cracking Christmas](https://tryhackme.com/room/attacks-on-ecrypted-files-aoc2025-asdfghj123)
 - [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 - [Phishing - Merry Clickmas](https://tryhackme.com/room/phishing-aoc2025-h2tkye9fzU)
+- [Phishing - Phishmas Greetings](https://tryhackme.com/room/spottingphishing-aoc2025-r2g4f6s8l0)
 - [Phishing Analysis Fundamentals](https://tryhackme.com/room/phishingemails1tryoe)
 - [Phishing Emails in Action](https://tryhackme.com/room/phishingemails2rytmuv)
 - [Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
@@ -121,6 +123,7 @@ _Última atualização: 2025-12-14 06:37 UTC_
 - [Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
 - [Security Principles](https://tryhackme.com/room/securityprinciples)
 - [Shodan.io](https://tryhackme.com/room/shodan)
+- [SOC Alert Triaging - Tinsel Triage](https://tryhackme.com/room/azuresentinel-aoc2025-a7d3h9k0p2)
 - [SOC Fundamentals](https://tryhackme.com/room/socfundamentals)
 - [SOC Role in Blue Team](https://tryhackme.com/room/socroleinblueteam)
 - [Splunk Basics - Did you SIEM?](https://tryhackme.com/room/splunkforloganalysis-aoc2025-x8fj2k4rqp)
@@ -151,6 +154,8 @@ _Última atualização: 2025-12-14 06:37 UTC_
 - [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
 - [Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 - [Windows x64 Assembly](https://tryhackme.com/room/win64assembly)
+- [XSS - Merry XSSMas](https://tryhackme.com/room/xss-aoc2025-c5j8b1m4t6)
+- [YARA Rules - YARA mean one!](https://tryhackme.com/room/yara-aoc2025-q9w1e3y5u7)
 
 ---
 Gerado automaticamente por `generate_thm_readme.py`.
