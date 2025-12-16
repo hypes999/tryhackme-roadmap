@@ -1,6 +1,6 @@
 # TryHackMe — Rooms completadas por `hypes999`
 
-_Última atualização: 2025-12-15 06:43 UTC_
+_Última atualização: 2025-12-16 06:41 UTC_
 
 ## Rooms
 
@@ -145,6 +145,7 @@ _Última atualização: 2025-12-15 06:43 UTC_
 - [Vulnversity](https://tryhackme.com/room/vulnversity)
 - [Web Application Basics](https://tryhackme.com/room/webapplicationbasics)
 - [Web Application Security](https://tryhackme.com/room/introwebapplicationsecurity)
+- [Web Attack Forensics - Drone Alone](https://tryhackme.com/room/webattackforensics-aoc2025-b4t7c1d5f8)
 - [Web Security Essentials](https://tryhackme.com/room/websecurityessentials)
 - [Welcome](https://tryhackme.com/room/hello)
 - [What is Networking?](https://tryhackme.com/room/whatisnetworking)
