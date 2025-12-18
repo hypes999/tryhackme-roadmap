@@ -1,6 +1,6 @@
 # TryHackMe — Rooms completadas por `hypes999`
 
-_Última atualização: 2025-12-17 06:41 UTC_
+_Última atualização: 2025-12-18 06:40 UTC_
 
 ## Rooms
 
@@ -26,6 +26,7 @@ _Última atualização: 2025-12-17 06:41 UTC_
 - [Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
 - [Custom Tooling Using Python](https://tryhackme.com/room/customtoolingpython)
 - [Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt)
+- [CyberChef - Hoperation Save McSkidy](https://tryhackme.com/room/encoding-decoding-aoc2025-s1a4z7x0c3)
 - [CyberChef: The Basics](https://tryhackme.com/room/cyberchefbasics)
 - [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
 - [Detecting Web Attacks](https://tryhackme.com/room/detectingwebattacks)
@@ -33,6 +34,7 @@ _Última atualização: 2025-12-17 06:41 UTC_
 - [DNS in Detail](https://tryhackme.com/room/dnsindetail)
 - [DNS Manipulation](https://tryhackme.com/room/dnsmanipulation)
 - [Enumeration & Brute Force](https://tryhackme.com/room/enumerationbruteforce)
+- [Forensics - Registry Furensics](https://tryhackme.com/room/registry-forensics-aoc2025-h6k9j2l5p8)
 - [Google Dorking](https://tryhackme.com/room/googledorking)
 - [Governance & Regulation](https://tryhackme.com/room/cybergovernanceregulation)
 - [Hack2Win: How you can grab extra tickets](https://tryhackme.com/room/hack2win)
