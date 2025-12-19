@@ -1,6 +1,6 @@
 # TryHackMe — Rooms completadas por `hypes999`
 
-_Última atualização: 2025-12-18 06:40 UTC_
+_Última atualização: 2025-12-19 06:39 UTC_
 
 ## Rooms
 
@@ -90,6 +90,7 @@ _Última atualização: 2025-12-18 06:40 UTC_
 - [Network Traffic Basics](https://tryhackme.com/room/networktrafficbasics)
 - [Networking Concepts](https://tryhackme.com/room/networkingconcepts)
 - [Nmap](https://tryhackme.com/room/furthernmap)
+- [Obfuscation - The Egg Shell File](https://tryhackme.com/room/obfuscation-aoc2025-e5r8t2y6u9)
 - [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
 - [OpenVAS](https://tryhackme.com/room/openvas)
 - [OpenVPN](https://tryhackme.com/room/openvpn)
