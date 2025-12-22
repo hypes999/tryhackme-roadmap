@@ -1,6 +1,6 @@
 # TryHackMe — Rooms completadas por `hypes999`
 
-_Última atualização: 2025-12-21 06:38 UTC_
+_Última atualização: 2025-12-22 06:42 UTC_
 
 ## Rooms
 
@@ -115,6 +115,7 @@ _Última atualização: 2025-12-21 06:38 UTC_
 - [Pyramid Of Pain](https://tryhackme.com/room/pyramidofpainax)
 - [Python Basics](https://tryhackme.com/room/pythonbasics)
 - [Python Playground](https://tryhackme.com/room/pythonplayground)
+- [Race Conditions - Toy to The World](https://tryhackme.com/room/race-conditions-aoc2025-d7f0g3h6j9)
 - [Red Team Engagements](https://tryhackme.com/room/redteamengagements)
 - [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)
 - [Redline](https://tryhackme.com/room/btredlinejoxr3d)
