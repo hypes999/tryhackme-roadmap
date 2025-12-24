@@ -1,6 +1,6 @@
 # TryHackMe — Rooms completadas por `hypes999`
 
-_Última atualização: 2025-12-23 06:42 UTC_
+_Última atualização: 2025-12-24 06:42 UTC_
 
 ## Rooms
 
@@ -17,6 +17,7 @@ _Última atualização: 2025-12-23 06:42 UTC_
 - [Blue](https://tryhackme.com/room/blue)
 - [Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
 - [Bypass Disable Functions](https://tryhackme.com/room/bypassdisablefunctions)
+- [C2 Detection - Command & Carol](https://tryhackme.com/room/detecting-c2-with-rita-aoc2025-m9n2b5v8c1)
 - [Cactus](https://tryhackme.com/room/cactus)
 - [Careers in Cyber](https://tryhackme.com/room/careersincyber)
 - [Common Attacks](https://tryhackme.com/room/commonattacks)
