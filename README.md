@@ -1,6 +1,6 @@
 # TryHackMe — Rooms completadas por `hypes999`
 
-_Última atualização: 2025-12-25 06:41 UTC_
+_Última atualização: 2025-12-26 06:40 UTC_
 
 ## Rooms
 
@@ -36,6 +36,7 @@ _Última atualização: 2025-12-25 06:41 UTC_
 - [DNS in Detail](https://tryhackme.com/room/dnsindetail)
 - [DNS Manipulation](https://tryhackme.com/room/dnsmanipulation)
 - [Enumeration & Brute Force](https://tryhackme.com/room/enumerationbruteforce)
+- [Exploitation with cURL - Hoperation Eggsploit](https://tryhackme.com/room/webhackingusingcurl-aoc2025-w8q1a4s7d0)
 - [Forensics - Registry Furensics](https://tryhackme.com/room/registry-forensics-aoc2025-h6k9j2l5p8)
 - [Google Dorking](https://tryhackme.com/room/googledorking)
 - [Governance & Regulation](https://tryhackme.com/room/cybergovernanceregulation)
