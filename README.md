@@ -1,6 +1,6 @@
 # TryHackMe — Rooms completadas por `hypes999`
 
-_Última atualização: 2025-12-26 06:40 UTC_
+_Última atualização: 2025-12-27 06:39 UTC_
 
 ## Rooms
 
